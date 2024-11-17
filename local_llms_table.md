@@ -2,7 +2,6 @@ Klar, hier sind die von mir genannten Modelle zusammen mit ihren typischen Anwen
 
 | Modell           | Lizenzbedingungen                                                                 | Lokale Installation | Kosten          | Größe (Parameter) | Typische Anwendungsfälle                                     |
 |------------------|-----------------------------------------------------------------------------------|---------------------|-----------------|-------------------|----------------------------------------------------------------|
-| **LLaMA 2**      | Gemeinschaftslizenz, nicht-exklusiv, weltweit, nicht übertragbar, gebührenfrei     | Ja                  | Kostenlos      | 7B - 70B          | Textgenerierung, Übersetzungen, Chatbots, Textanalyse          |
 | **Mistral AI**   | Forschungslizenz, nicht-exklusiv, weltweit, nicht übertragbar, gebührenfrei       | Ja                  | Kostenlos      | 8B                | Sprachverständnis, Dialogsysteme, Informationsretrieval       |
 | **Gemma**        | Gemeinschaftslizenz, nicht-exklusiv, weltweit, nicht übertragbar, gebührenfrei     | Ja                  | Kostenlos      | 7B                | Textgenerierung, Inhaltsmoderation, kreative Textbearbeitung  |
 | **LLaMA 3**      | Gemeinschaftslizenz, nicht-exklusiv, weltweit, nicht übertragbar, gebührenfrei     | Ja                  | Kostenlos      | 7B - 70B          | Textgenerierung, Übersetzungen, Chatbots, Textanalyse          |
