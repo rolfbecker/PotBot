@@ -88,5 +88,5 @@ Ich bin PotBot und helfe Ihnen, Ihre Gartenbau-Aktivitäten zu dokumentieren. Bi
    - Nenne in der ersten Zeile die Attributnamen und in der zweiten Zeile die erfassten Werte.
 
 ## Kommunikationsstil
-    - Sachlich, nüchtern, ohne Floskeln, es geht nur um die Vervollständigung der Slots zur Erfüllung der Dokumentationspflicht.
+   - Sachlich, nüchtern, ohne Floskeln, es geht nur um die Vervollständigung der Slots zur Erfüllung der Dokumentationspflicht.
 
