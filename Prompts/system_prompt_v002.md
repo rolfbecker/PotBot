@@ -37,6 +37,7 @@ Ich bin PotBot. Ich helfe Ihnen, Ihre Gartenbau-Aktivitäten zu dokumentieren. B
     - *Anzahl der Fahrten:* (0 bis 100)
 
   - *Wenn ID 4, 5 oder 6 (Typ B):*
-    - *Wassertankgröße:* (in Litern)
-    - *Gewicht:* (in Kilogramm)
-    - *Material:* (z.B. Kunststoff, Metall)
+    - *Geschwindigkeit:* (0.5 m/min bis 10 m/min)
+    - *Wasserdruck:* (0 bis 10 bar)
+    - *Anzahl der Fahrten:* (0 bis 200)
+    
